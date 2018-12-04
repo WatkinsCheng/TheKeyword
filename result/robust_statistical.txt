@@ -1,7 +1,0 @@
-china 4
-combined 1
-growth 1
-largest 1
-car 1
-producer 1
-market 1

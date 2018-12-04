@@ -1,4 +1,0 @@
-car 1
-hacking 1
-board 1
-diagnostics 1

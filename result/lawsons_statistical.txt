@@ -1,4 +1,0 @@
-company 1
-car 1
-bore 1
-daimler 1

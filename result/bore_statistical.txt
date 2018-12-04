@@ -1,4 +1,0 @@
-lawsons 1
-company 1
-car 1
-daimler 1

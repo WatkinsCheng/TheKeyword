@@ -1,9 +1,0 @@
-model 4
-dmg 1
-car 1
-produced 1
-named 1
-mercedes 1
-maybach 1
-engine 1
-hp 1

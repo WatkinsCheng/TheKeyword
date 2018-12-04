@@ -1,4 +1,0 @@
-lights 1
-increase 1
-visibility 1
-car 1

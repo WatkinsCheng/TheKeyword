@@ -1,8 +1,0 @@
-car 2
-patent 1
-stroke 1
-engine 1
-encouraged 1
-development 1
-cars 1
-united 1

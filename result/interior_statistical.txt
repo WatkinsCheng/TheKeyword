@@ -1,6 +1,0 @@
-lights 1
-ceiling 1
-car 1
-fitted 1
-driver 1
-passengers 1

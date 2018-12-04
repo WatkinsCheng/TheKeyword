@@ -1,4 +1,0 @@
-hand 1
-cars 1
-designed 1
-seats 1

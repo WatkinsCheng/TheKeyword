@@ -1,8 +1,0 @@
-competitions 1
-eco 1
-marathon 1
-average 1
-car 1
-weights 1
-lb 1
-achieved 1

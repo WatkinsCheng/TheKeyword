@@ -1,4 +1,0 @@
-marker 1
-lights 1
-increase 1
-car 1

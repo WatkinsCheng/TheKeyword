@@ -1,4 +1,0 @@
-variant 1
-attested 1
-considered 1
-archaic 1

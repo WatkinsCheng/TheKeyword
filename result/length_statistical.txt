@@ -1,6 +1,0 @@
-cars 4
-suvs 4
-heavier 1
-size 1
-extended 1
-suburban 1

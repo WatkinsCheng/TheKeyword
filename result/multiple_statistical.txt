@@ -1,9 +1,0 @@
-cars 2
-typically 1
-fitted 1
-types 1
-lights 1
-designed 1
-carry 1
-occupants 1
-seats 1

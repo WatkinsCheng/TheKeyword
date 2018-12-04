@@ -1,6 +1,0 @@
-people 4
-car 1
-roads 1
-seat 1
-tires 1
-transport 1

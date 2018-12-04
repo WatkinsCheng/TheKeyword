@@ -1,6 +1,0 @@
-seat 2
-cars 1
-seats 1
-typically 1
-passengers 1
-rear 1

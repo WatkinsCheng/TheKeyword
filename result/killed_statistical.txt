@@ -1,5 +1,0 @@
-animals 1
-roads 1
-cars 1
-referred 1
-roadkill 1

@@ -1,6 +1,0 @@
-modern 1
-cars 1
-controls 1
-location 1
-accelerator 1
-brake 1

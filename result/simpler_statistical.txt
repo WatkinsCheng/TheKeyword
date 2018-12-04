@@ -1,5 +1,0 @@
-car 1
-invented 1
-controls 1
-fewer 1
-automation 1

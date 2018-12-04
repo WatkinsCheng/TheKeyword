@@ -1,9 +1,0 @@
-car 2
-cars 1
-accessible 1
-model 1
-american 1
-manufactured 1
-ford 1
-motor 1
-company 1

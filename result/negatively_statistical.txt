@@ -1,7 +1,0 @@
-animals 1
-plants 1
-impacted 1
-cars 1
-habitat 1
-destruction 1
-pollution 1

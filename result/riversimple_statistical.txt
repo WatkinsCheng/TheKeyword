@@ -1,3 +1,0 @@
-projects 1
-oscar 1
-fires 1

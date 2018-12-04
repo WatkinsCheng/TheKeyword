@@ -1,6 +1,0 @@
-negative 1
-impacts 1
-fall 1
-social 1
-drive 1
-cars 1

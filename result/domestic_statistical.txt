@@ -1,3 +1,0 @@
-increase 1
-car 1
-sales 1

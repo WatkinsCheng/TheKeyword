@@ -1,3 +1,0 @@
-关键字：source	关键字所在的句子: this is the source of fords apocryphal remark any color as long as its black
-关键字：source	关键字所在的句子:the manufacture of vehicles is resource intensive and many manufacturers now report on the environmental performance of their factories including energy usage waste and water consumption
-关键字：source	关键字所在的句子: none of the projects have reached significant success in terms of developing a car as a whole both from hardware and software perspective and no mass production ready open-source based design have been introduced as of late 2009

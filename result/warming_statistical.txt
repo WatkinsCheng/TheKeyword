@@ -1,9 +1,0 @@
-air 2
-pollution 2
-climate 2
-change 2
-global 2
-contributes 1
-hydrocarbon 1
-fuels 1
-contribute 1
