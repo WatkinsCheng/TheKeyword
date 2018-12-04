@@ -1,0 +1,12 @@
+car 4
+opel 4
+germany 2
+germanys 1
+mass 1
+manufactured 1
+ps 1
+laubfrosch 1
+tree 1
+russelsheim 1
+top 1
+builder 1

@@ -1,0 +1,10 @@
+automobile 1
+company 1
+subsidiary 1
+established 1
+wagon 1
+coach 1
+manufacturer 1
+started 1
+build 1
+cars 1

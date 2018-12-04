@@ -1,0 +1,14 @@
+france 4
+sold 4
+germany 2
+cars 1
+built 1
+roger 1
+benz 1
+economic 1
+conditions 1
+deteriorate 1
+war 1
+directors 1
+dmg 1
+refused 1

@@ -1,0 +1,11 @@
+benz 4
+road 4
+august 1
+bertha 1
+wife 1
+karl 1
+undertook 1
+trip 1
+car 1
+prove 1
+worthiness 1

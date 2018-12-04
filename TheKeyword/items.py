@@ -13,5 +13,6 @@ class ThekeywordItem(scrapy.Item):
     # name = scrapy.Field()
     # info = scrapy.Field()
     p = scrapy.Field()
+    url = scrapy.Field()
     # pass
 

@@ -1,0 +1,7 @@
+patent 4
+selden 1
+applied 1
+car 1
+application 1
+vehicle 1
+built 1

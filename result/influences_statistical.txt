@@ -1,0 +1,7 @@
+weight 4
+fuel 4
+consumption 4
+performance 4
+car 1
+increased 1
+decreased 1

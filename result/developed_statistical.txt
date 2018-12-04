@@ -1,0 +1,17 @@
+fast 4
+dry 2
+cars 1
+global 1
+century 1
+economies 1
+depend 1
+japan 1
+black 1
+forcing 1
+company 1
+drop 1
+variety 1
+colors 1
+drying 1
+duco 1
+lacquer 1

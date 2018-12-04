@@ -1,0 +1,15 @@
+combustion 8
+cars 2
+propelled 2
+internal 2
+engine 2
+fueled 2
+fuels 2
+deflagration 1
+detonation 1
+hydrocarbon 1
+gasoline 1
+petrol 1
+diesel 1
+autogas 1
+cng 1

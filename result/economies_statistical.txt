@@ -1,0 +1,5 @@
+cars 1
+global 1
+century 1
+developed 1
+depend 1

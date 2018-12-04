@@ -1,0 +1,15 @@
+car 2
+pr 2
+motor 1
+europe 1
+factory 1
+cars 1
+produced 1
+czech 1
+company 1
+nesselsdorfer 1
+wagenbau 1
+renamed 1
+tatra 1
+sident 1
+automobil 1

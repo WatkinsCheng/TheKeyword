@@ -1,0 +1,10 @@
+cars 2
+seat 2
+fitted 1
+multiple 1
+types 1
+lights 1
+seats 1
+passengers 1
+front 1
+rear 1

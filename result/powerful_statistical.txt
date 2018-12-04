@@ -1,0 +1,14 @@
+lb 4
+average 1
+car 1
+weighed 1
+modern 1
+steel 1
+safety 1
+cages 1
+anti 1
+lock 1
+brakes 1
+airbags 1
+efficient 1
+engines 1

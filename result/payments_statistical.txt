@@ -1,0 +1,15 @@
+costs 1
+acquiring 1
+vehicle 1
+car 1
+financed 1
+repairs 1
+maintenance 1
+fuel 1
+depreciation 1
+driving 1
+time 1
+parking 1
+fees 1
+taxes 1
+insurance 1

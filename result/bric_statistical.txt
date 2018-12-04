@@ -1,0 +1,11 @@
+countries 2
+china 2
+adding 1
+consumption 1
+december 1
+largest 1
+car 1
+market 1
+automotive 1
+production 1
+falling 1

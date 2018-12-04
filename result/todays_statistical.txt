@@ -1,0 +1,10 @@
+average 1
+cars 1
+percent 1
+recyclable 1
+recycled 1
+steel 1
+helps 1
+reduce 1
+energy 1
+pollution 1

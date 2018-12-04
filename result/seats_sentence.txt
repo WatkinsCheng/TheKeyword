@@ -1,0 +1,4 @@
+关键字：seats	关键字所在的句子:most cars are designed to carry multiple occupants often with four or five seats
+关键字：seats	关键字所在的句子: cars with five seats typically seat two passengers in the front and three in the rear
+关键字：seats	关键字所在的句子: full-size cars and large sport utility vehicles can often carry six seven or more occupants depending on the arrangement of the seats
+关键字：seats	关键字所在的句子: on the other hand sports cars are most often designed with only two seats

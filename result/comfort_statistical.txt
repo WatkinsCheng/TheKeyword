@@ -1,0 +1,17 @@
+cars 5
+controls 2
+driving 2
+passenger 2
+safety 2
+era 2
+parking 1
+controlling 1
+variety 1
+lights 1
+equipped 1
+operated 1
+combination 1
+feet 1
+hands 1
+occasionally 1
+voice 1

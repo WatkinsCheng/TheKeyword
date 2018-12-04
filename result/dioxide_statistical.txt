@@ -1,0 +1,17 @@
+average 2
+vehicle 2
+grams 2
+gas 2
+carbon 2
+united 1
+environmental 1
+protection 1
+agency 1
+emits 1
+greenhouse 1
+gallon 1
+gasoline 1
+running 1
+diesel 1
+fuel 1
+emit 1

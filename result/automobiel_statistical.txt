@@ -1,0 +1,15 @@
+dutch 9
+german 9
+form 6
+auto 6
+languages 1
+historically 1
+english 1
+abbreviated 1
+formal 1
+version 1
+automobil 1
+short 1
+regular 1
+word 1
+car 1

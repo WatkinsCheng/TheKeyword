@@ -1,0 +1,17 @@
+manufacturer 2
+horse 1
+drawn 1
+stagecoach 1
+built 1
+retrofitted 1
+engine 1
+design 1
+studebaker 1
+automobile 1
+company 1
+subsidiary 1
+established 1
+wagon 1
+started 1
+build 1
+cars 1

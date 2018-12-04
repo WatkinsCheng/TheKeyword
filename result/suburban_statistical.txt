@@ -1,0 +1,12 @@
+cars 5
+suvs 4
+heavier 1
+size 1
+extended 1
+length 1
+locomotive 1
+routes 1
+interurban 1
+intercity 1
+railroad 1
+systems 1

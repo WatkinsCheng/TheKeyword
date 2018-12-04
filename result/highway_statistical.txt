@@ -1,0 +1,10 @@
+tests 9
+safety 4
+insurance 4
+ncap 2
+standard 1
+cars 1
+euroncap 1
+industry 1
+institute 1
+iihs 1

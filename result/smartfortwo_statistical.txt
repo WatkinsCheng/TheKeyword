@@ -1,0 +1,4 @@
+city 1
+car 1
+weighs 1
+lb 1

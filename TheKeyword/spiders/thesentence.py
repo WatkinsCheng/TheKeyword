@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# scrapy crawl thesnetence
 import scrapy
 import re
 from TheKeyword.items import ThekeywordItem
@@ -12,6 +13,7 @@ class ThesentenceSpider(scrapy.Spider):
     allowed_domains = ['en.wikipedia.org']
     # 爬虫执行后第一批请求从该表中获取
     start_urls = ['https://en.wikipedia.org/wiki/Car']
+    url = 'https://en.wikipedia.org/wiki/Car'
     # 下载延时
     # download_delay = 1
 
@@ -28,6 +30,10 @@ class ThesentenceSpider(scrapy.Spider):
             # xpath时候匹配到空值会出现 IndexError: list index out of range
             # item['info'] = info[0] if info else None
             p = node.xpath('normalize-space(string(.))').extract()
+            # 获取文章中出现的链接，假定关键词与文章所有链接有联系
+            # url = node.xpath('./a/@href').extract()
+            # for i in url:
+            #   print('https://en.wikipedia.org'+i)
             item['p'] = p[0] if p else None
             # 返回提取到的每个item数据，给管道文件，并返回来继续执行后面的代码
             yield item

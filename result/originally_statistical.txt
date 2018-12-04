@@ -1,0 +1,8 @@
+referred 1
+wheeled 1
+horse 1
+drawn 1
+vehicle 1
+cart 1
+carriage 1
+wagon 1

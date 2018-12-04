@@ -1,0 +1,11 @@
+average 1
+car 1
+loss 1
+habitat 1
+potential 1
+sq 1
+ft 1
+based 1
+primary 1
+production 1
+correlations 1
